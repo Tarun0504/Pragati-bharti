@@ -1,0 +1,6 @@
+{
+  "name": "Pragati Bharti",
+  "description": "Document intelligence and question extraction service with asynchronous processing, confidence evaluation, answer-key association, and human review workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
